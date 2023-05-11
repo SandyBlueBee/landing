@@ -1,0 +1,25 @@
+.cards {
+  display: flex;
+  gap: 20px;
+}
+
+.card {
+  box-shadow: 0px 0px 10px 2px lightgrey;
+  display: flex;
+  padding: 20px 35px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.card img {
+  height: 100px;
+}
+
+.illustration-size{
+  height: 200px;
+}
+
+.small-size-img{
+  height:100px;
+}

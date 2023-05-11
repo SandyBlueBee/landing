@@ -1,0 +1,16 @@
+footer {
+  background-color: #303A2B;
+  height: 150px;
+  flex-direction: column;
+  gap: 10px;
+  color: #F05D5E;
+}
+
+footer .list-links {
+  display: flex;
+  gap: 20px;
+}
+
+footer i {
+  font-size: 40px;
+}

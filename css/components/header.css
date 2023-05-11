@@ -1,0 +1,26 @@
+header{
+  background-color: #303A2B;
+  height: 50px;
+  position: sticky;
+  top: 0;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 1%;
+  text-decoration: none;
+  padding-right: 20px;
+}
+
+header a{
+  border: 1px solid grey;
+  color: grey;
+  padding: 5px 12px;
+}
+
+header a:hover {
+  background-color: #F05D5E;
+}
+
+header:last-child {
+  margin-right: 16px;
+}
